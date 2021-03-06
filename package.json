@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "faker": "^5.4.0",
     "firebase": "^8.2.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -16,6 +17,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "push": "git push github master",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

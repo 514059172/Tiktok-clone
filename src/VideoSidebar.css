@@ -1,7 +1,8 @@
 .videoSidebar {
   position: absolute;
   top: 50%;
-  right: 7%;
+  right: 3%;
+  color: white;
 }
 .videoSidebar__button {
   padding: 20px;
